@@ -5502,3 +5502,35 @@
 [2024-09-03 09:06:35] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\longn\AppData\Local\Temp/66d6d19b52784-MNsFE2.tmp
 [2024-09-03 09:06:35] [class-ss-page-handler.php:38] URL Prepared:https://localhost/ebook/1725354396?simply_static_page=0
 [2024-09-03 09:06:35] [class-ss-url-fetcher.php:251] Fetching URL: https://localhost/ebook/1725354396?simply_static_page=0
+[2024-09-03 09:06:38] [class-ss-url-fetcher.php:103] Filesize: 27649 bytes
+[2024-09-03 09:06:38] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-09-03 09:06:38] [class-ss-url-fetcher.php:233] New filename for static page: 404/index.html
+[2024-09-03 09:06:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\longn\AppData\Local\Temp/66d6d19b52784-MNsFE2.tmp to C:\xampp\htdocs\ebook/wp-content/uploads\simply-static\temp-files/simply-static-1-1725354375\404/index.html
+[2024-09-03 09:06:38] [class-ss-generate-404-task.php:119] Replacing URLs in the static file
+[2024-09-03 09:06:39] [class-ss-generate-404-task.php:125] We're saving this URL; keeping the static file
+[2024-09-03 09:06:39] [class-ss-page.php:119] Checking Content Identical:b5c6eb01c6c41aaa048331c193bd33752cc41e3c===. Value: FALSE
+[2024-09-03 09:06:39] [class-ss-task.php:44] Status message: [generate_404] 404 Page generated
+[2024-09-03 09:06:39] [class-ss-archive-creation-job.php:175] We've found our next task: transfer_files_locally
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-03 09:06:40] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 7 of 7 files
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/ebook/
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/ebook/wp-content/uploads/2024/09
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/ebook/wp-includes/blocks/social-links
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/ebook/wp-content/themes/twentytwentyfour/assets/fonts/inter
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/ebook/wp-content/themes/twentytwentyfour/assets/fonts/cardo
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/ebook/wp-content/themes/twentytwentyfour/assets/fonts/cardo
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: C:/xampp/htdocs/ebook/wp-content/themes/twentytwentyfour/assets/fonts/cardo
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:7. Processed Pages: 7
+[2024-09-03 09:06:40] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 7 of 7 files
+[2024-09-03 09:06:40] [trait-can-process-pages.php:103] Total pages: 7; Pages remaining: 0
+[2024-09-03 09:06:40] [class-ss-transfer-files-locally-task.php:238] Transferring 404 Page
+[2024-09-03 09:06:40] [class-ss-task.php:44] Status message: [destination_url] Destination URL: <a href="https://jambhala-book.github.io/ebook/" target="_blank">https://jambhala-book.github.io/ebook/</a>
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:175] We've found our next task: wrapup
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:136] Current task: wrapup
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:153] Performing task: wrapup
+[2024-09-03 09:06:40] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-09-03 09:06:40] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:197] Completing the job
+[2024-09-03 09:06:40] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:00:25
